@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/julienZimny/static/css/main.8e14bf32.css",
+    "main.js": "/julienZimny/static/js/main.909eb836.js",
+    "static/js/453.9d767731.chunk.js": "/julienZimny/static/js/453.9d767731.chunk.js",
+    "static/media/facade2.jpg": "/julienZimny/static/media/facade2.110c146c9898319c010f.jpg",
+    "static/media/interieurPharma.jpg": "/julienZimny/static/media/interieurPharma.d3980aebbbac546fa168.jpg",
+    "static/media/ortho.jpg": "/julienZimny/static/media/ortho.57f8cc6a86c33c6b466c.jpg",
+    "static/media/julien.jpg": "/julienZimny/static/media/julien.79729d2ccbe4e3c0222f.jpg",
+    "static/media/Materiel-medical.jpg": "/julienZimny/static/media/Materiel-medical.2a285ff5284410ebf760.jpg",
+    "static/media/para2.jpg": "/julienZimny/static/media/para2.dd3ca8234fbce8a98400.jpg",
+    "static/media/pharm2.jpg": "/julienZimny/static/media/pharm2.329d3d39d1254071ecdd.jpg",
+    "static/media/fond.jpg": "/julienZimny/static/media/fond.1d3fdd54a7e553655de8.jpg",
+    "static/media/bas-de-contention.jpg": "/julienZimny/static/media/bas-de-contention.ef019cc5d7b76a56f023.jpg",
+    "static/media/produits-bébé.jpg": "/julienZimny/static/media/produits-bébé.de542107287190c471e5.jpg",
+    "static/media/logo_texte.png": "/julienZimny/static/media/logo_texte.2710ea8ce5971f6332c9.png",
+    "static/media/slick.svg": "/julienZimny/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/julienZimny/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/julienZimny/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/julienZimny/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/facebook-176-svgrepo-com.svg": "/julienZimny/static/media/facebook-176-svgrepo-com.269ec09791a7fbaa6abd794da8f87347.svg",
+    "static/media/doctolib-svgrepo-com.svg": "/julienZimny/static/media/doctolib-svgrepo-com.25d10bb15613dc69ba86941b7ebf81b5.svg",
+    "index.html": "/julienZimny/index.html",
+    "static/media/logoMail.svg": "/julienZimny/static/media/logoMail.605ac08c9a20406c6933ab95e8160bda.svg",
+    "static/media/logoLocation.svg": "/julienZimny/static/media/logoLocation.031c58e7bde922dbfd413fd0e282846f.svg",
+    "main.8e14bf32.css.map": "/julienZimny/static/css/main.8e14bf32.css.map",
+    "main.909eb836.js.map": "/julienZimny/static/js/main.909eb836.js.map",
+    "453.9d767731.chunk.js.map": "/julienZimny/static/js/453.9d767731.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e14bf32.css",
+    "static/js/main.909eb836.js"
+  ]
+}
